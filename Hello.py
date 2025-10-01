@@ -1,2 +1,7 @@
-print('hello fahsai')
-print('hello fahsai')
+
+
+def hellofahsai():
+    print('hello fahsai')
+    print('hello chang')
+
+hellofahsai()
